@@ -1,0 +1,2904 @@
+{
+  "fetched_at": "2026-01-27T13:11:44.392101",
+  "news": [
+    {
+      "id": 0,
+      "title": "反转来了？永辉超市回应北京一调改门店停业…",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-27/doc-inhitntv7542204.shtml",
+      "publish_time": "(01月27日 12:51)",
+      "source": "sina",
+      "industry": [
+        "商业贸易"
+      ],
+      "stock_code": [
+        "601933.SH"
+      ],
+      "stock": [
+        "永辉超市"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "建发股份首亏最高100亿：投资红星美凯龙“血亏”、联发业绩拖后腿",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-27/doc-inhithnc8364126.shtml",
+      "publish_time": "(01月27日 11:13)",
+      "source": "sina",
+      "industry": [
+        "商业贸易",
+        "交通运输"
+      ],
+      "stock_code": [
+        "600153.SH",
+        "601828.SH"
+      ],
+      "stock": [
+        "建发股份",
+        "美凯龙"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "股海导航_2026年1月27日_沪深股市公告与交易提示",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-27/doc-inhisvwf9985892.shtml",
+      "publish_time": "(01月27日 07:08)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 3,
+      "title": "两名大股东拟参与九江银行定增",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-27/doc-inhiseys6153787.shtml",
+      "publish_time": "(01月27日 00:39)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 4,
+      "title": "紫金矿业子公司拟收购联合黄金100%股权",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-27/doc-inhiseyq0305029.shtml",
+      "publish_time": "(01月27日 00:35)",
+      "source": "sina",
+      "industry": [
+        "有色金属"
+      ],
+      "stock_code": [
+        "601899.SH"
+      ],
+      "stock": [
+        "紫金矿业"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "公司总部大厦、厂房、宿舍均遭查封？ ST得润为原控股子公司担保“惹祸”",
+      "url": "https://finance.sina.com.cn/roll/2026-01-26/doc-inhiseym7981207.shtml",
+      "publish_time": "(01月26日 23:31)",
+      "source": "sina",
+      "industry": [
+        "电子"
+      ],
+      "stock_code": [
+        "002055.SZ"
+      ],
+      "stock": [
+        "ST得润"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "风范股份“自救”迷局：光伏折戟再押注智能装备，3.8亿元现金收购案现250%高溢价，上交所追问可实现性",
+      "url": "https://finance.sina.com.cn/roll/2026-01-26/doc-inhiseyr8772798.shtml",
+      "publish_time": "(01月26日 23:20)",
+      "source": "sina",
+      "industry": [
+        "电气设备"
+      ],
+      "stock_code": [
+        "601700.SH"
+      ],
+      "stock": [
+        "风范股份"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "紫金矿业非洲大扫货 拟280亿元收购联合黄金",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-26/doc-inhiseyq0278392.shtml",
+      "publish_time": "(01月26日 22:55)",
+      "source": "sina",
+      "industry": [
+        "有色金属"
+      ],
+      "stock_code": [
+        "601899.SH"
+      ],
+      "stock": [
+        "紫金矿业"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "热门股淳中科技靠投资沐曦盈利 2025年主升浪期间被已封号大V推荐",
+      "url": "https://finance.sina.com.cn/roll/2026-01-26/doc-inhirysp8098373.shtml",
+      "publish_time": "(01月26日 22:48)",
+      "source": "sina",
+      "industry": [
+        "计算机"
+      ],
+      "stock_code": [
+        "603516.SH"
+      ],
+      "stock": [
+        "淳中科技"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "鼎龙股份拟6.3亿元收购皓飞新材70%股权 标的收入增长但净利润未公开",
+      "url": "https://finance.sina.com.cn/roll/2026-01-26/doc-inhirysu6241645.shtml",
+      "publish_time": "(01月26日 22:31)",
+      "source": "sina",
+      "industry": [
+        "电子"
+      ],
+      "stock_code": [
+        "300054.SZ"
+      ],
+      "stock": [
+        "鼎龙股份"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "溢价超33%!“9天5板”九鼎新材：全资子公司拟购买控股股东资产，标的去年由盈转亏",
+      "url": "https://finance.sina.com.cn/roll/2026-01-26/doc-inhirysp8092108.shtml",
+      "publish_time": "(01月26日 22:30)",
+      "source": "sina",
+      "industry": [
+        "建筑材料"
+      ],
+      "stock_code": [
+        "002201.SZ"
+      ],
+      "stock": [
+        "九鼎新材"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "紫金矿业，280亿元“扫货”金矿",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhiryss0403000.shtml",
+      "publish_time": "(01月26日 22:27)",
+      "source": "sina",
+      "industry": [
+        "有色金属"
+      ],
+      "stock_code": [
+        "601899.SH"
+      ],
+      "stock": [
+        "紫金矿业"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "长源东谷子公司获数十亿元项目定点 需约5个月完成产品开发到开始量产",
+      "url": "https://finance.sina.com.cn/roll/2026-01-26/doc-inhirysp8088443.shtml",
+      "publish_time": "(01月26日 22:18)",
+      "source": "sina",
+      "industry": [
+        "汽车"
+      ],
+      "stock_code": [
+        "603950.SH"
+      ],
+      "stock": [
+        "长源东谷"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "永辉超市半价卖资产被问询，去年亏损21亿",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhirysp8068222.shtml",
+      "publish_time": "(01月26日 21:22)",
+      "source": "sina",
+      "industry": [
+        "商业贸易"
+      ],
+      "stock_code": [
+        "601933.SH"
+      ],
+      "stock": [
+        "永辉超市"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "突发！妙可蓝多创始人被免职并被提起仲裁",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhiryss0380454.shtml",
+      "publish_time": "(01月26日 21:10)",
+      "source": "sina",
+      "industry": [
+        "食品饮料"
+      ],
+      "stock_code": [
+        "600882.SH"
+      ],
+      "stock": [
+        "妙可蓝多"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "蒯玉龙接替柴琇，成为妙可蓝多新任CEO",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-26/doc-inhirysu6210200.shtml",
+      "publish_time": "(01月26日 21:08)",
+      "source": "sina",
+      "industry": [
+        "食品饮料"
+      ],
+      "stock_code": [
+        "600882.SH"
+      ],
+      "stock": [
+        "妙可蓝多"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "中创环保：关于公司董事辞职的公告",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhiryst8856962.shtml",
+      "publish_time": "(01月26日 20:40)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 17,
+      "title": "光环新网2025年预亏超7亿元，预计计提近9亿元商誉减值准备致业绩“变脸”",
+      "url": "https://finance.sina.com.cn/roll/2026-01-26/doc-inhirukr8173625.shtml",
+      "publish_time": "(01月26日 20:26)",
+      "source": "sina",
+      "industry": [
+        "通信"
+      ],
+      "stock_code": [
+        "300383.SZ"
+      ],
+      "stock": [
+        "光环新网"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "万亿巨头出手！601899，拟280亿元买金矿！",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhiruku0495452.shtml",
+      "publish_time": "(01月26日 20:24)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 19,
+      "title": "学大教育：关于财务负责人辞职及聘任财务负责人的公告",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhiruku0492474.shtml",
+      "publish_time": "(01月26日 20:20)",
+      "source": "sina",
+      "industry": [
+        "休闲服务"
+      ],
+      "stock_code": [
+        "000526.SZ"
+      ],
+      "stock": [
+        "学大教育"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "中科美菱：董事长、董事辞职暨推举董事、总经理方荣新先生代行董事长职责的公告",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhiruku0492471.shtml",
+      "publish_time": "(01月26日 20:20)",
+      "source": "sina",
+      "industry": [
+        "医药生物"
+      ],
+      "stock_code": [
+        "835892.BJ"
+      ],
+      "stock": [
+        "中科美菱"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "保壳生死时速！*ST天山2025年预亏超1600万元，四季度突击创收超1亿元，审计意见将成最后判官",
+      "url": "https://finance.sina.com.cn/roll/2026-01-26/doc-inhirukv8971593.shtml",
+      "publish_time": "(01月26日 19:49)",
+      "source": "sina",
+      "industry": [
+        "农林牧渔"
+      ],
+      "stock_code": [
+        "300313.SZ"
+      ],
+      "stock": [
+        "*ST天山"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "601700，业绩亏损之际跨界收购，获交易所问询",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhirukv8965543.shtml",
+      "publish_time": "(01月26日 19:24)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 23,
+      "title": "长虹美菱：关于公司董事长辞职、补选非独立董事暨推举董事代行董事长、法定代表人职责的公告",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhiruku0471521.shtml",
+      "publish_time": "(01月26日 19:20)",
+      "source": "sina",
+      "industry": [
+        "家用电器"
+      ],
+      "stock_code": [
+        "000521.SZ"
+      ],
+      "stock": [
+        "长虹美菱"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "财团半价抄底入局，ST纳川重整迎5天“生死时速”",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-26/doc-inhirukw6288146.shtml",
+      "publish_time": "(01月26日 19:14)",
+      "source": "sina",
+      "industry": [
+        "建筑材料"
+      ],
+      "stock_code": [
+        "300198.SZ"
+      ],
+      "stock": [
+        "ST纳川"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "金融板块“顶梁柱”高负荷，500亿“均瑶帝国”可好?",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhirukr8125315.shtml",
+      "publish_time": "(01月26日 18:47)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 26,
+      "title": "*ST天山可能被终止上市",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-26/doc-inhiruku0448837.shtml",
+      "publish_time": "(01月26日 18:27)",
+      "source": "sina",
+      "industry": [
+        "农林牧渔"
+      ],
+      "stock_code": [
+        "300313.SZ"
+      ],
+      "stock": [
+        "*ST天山"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "尾盘异动！601899，现巨额压单！",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhirukr8112675.shtml",
+      "publish_time": "(01月26日 18:21)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 28,
+      "title": "“金饭碗”端不住了！科思股份：业绩预降8成，实控人低位仍减持",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhirqay6387194.shtml",
+      "publish_time": "(01月26日 18:13)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 29,
+      "title": "永杰新材上市未满一年豪掷近13亿元启动“买买买”模式 交易未设置业绩补偿",
+      "url": "https://finance.sina.com.cn/roll/2026-01-26/doc-inhirqay6381194.shtml",
+      "publish_time": "(01月26日 18:01)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 30,
+      "title": "科大智能赴港上市：研发投入金额和占比双下滑 智能机器人业务萎缩",
+      "url": "https://finance.sina.cn/stock/ssgs/2026-01-26/detail-inhirqay6373098.d.html",
+      "publish_time": "(01月26日 17:44)",
+      "source": "sina",
+      "industry": [
+        "电气设备",
+        "机械设备"
+      ],
+      "stock_code": [
+        "300222.SZ",
+        "300024.SZ"
+      ],
+      "stock": [
+        "科大智能",
+        "机器人"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "海天味业1月26日现1笔大宗交易 总成交金额1000.11万元 溢价率为0.00%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0561984.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "食品饮料"
+      ],
+      "stock_code": [
+        "603288.SH"
+      ],
+      "stock": [
+        "海天味业"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "友发集团1月26日现1笔大宗交易 总成交金额201.95万元 溢价率为-10.26%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9050774.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "钢铁"
+      ],
+      "stock_code": [
+        "601686.SH"
+      ],
+      "stock": [
+        "友发集团"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "爱玛科技1月26日现2笔大宗交易 总成交金额1084.68万元 溢价率为0.00%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0561969.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "汽车"
+      ],
+      "stock_code": [
+        "603529.SH"
+      ],
+      "stock": [
+        "爱玛科技"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "张江高科1月26日现1笔大宗交易 总成交金额216.3万元 溢价率为0.00%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0561958.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "房地产"
+      ],
+      "stock_code": [
+        "600895.SH"
+      ],
+      "stock": [
+        "张江高科"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "龙芯中科1月26日现12笔大宗交易 总成交金额2.05亿元 其中机构买入1.92亿元 溢价率为-8.00%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9050747.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "电子"
+      ],
+      "stock_code": [
+        "688047.SH"
+      ],
+      "stock": [
+        "龙芯中科"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "重庆钢铁1月26日现1笔大宗交易 总成交金额3080万元 溢价率为-1.91%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9050733.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "钢铁"
+      ],
+      "stock_code": [
+        "601005.SH"
+      ],
+      "stock": [
+        "重庆钢铁"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "建设机械1月26日现1笔大宗交易 总成交金额108万元 溢价率为-6.74%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0561921.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "机械设备"
+      ],
+      "stock_code": [
+        "600984.SH"
+      ],
+      "stock": [
+        "建设机械"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "嘉泽新能1月26日现4笔大宗交易 总成交金额1868.8万元 其中机构买入203.2万元 溢价率为-13.83%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9050701.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "公用事业"
+      ],
+      "stock_code": [
+        "601619.SH"
+      ],
+      "stock": [
+        "嘉泽新能"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "ST通脉1月26日现4笔大宗交易 总成交金额1180万元 溢价率为-5.60%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9050686.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "通信"
+      ],
+      "stock_code": [
+        "603559.SH"
+      ],
+      "stock": [
+        "ST通脉"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "康众医疗1月26日现1笔大宗交易 总成交金额1990万元 溢价率为-0.88%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0561879.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "医药生物"
+      ],
+      "stock_code": [
+        "688607.SH"
+      ],
+      "stock": [
+        "康众医疗"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "紫金矿业1月26日现1笔大宗交易 总成交金额434.5万元 溢价率为0.00%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9050661.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "有色金属"
+      ],
+      "stock_code": [
+        "601899.SH"
+      ],
+      "stock": [
+        "紫金矿业"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "赛特新材1月26日现3笔大宗交易 总成交金额5875.41万元 溢价率为-6.93%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9050651.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "化工"
+      ],
+      "stock_code": [
+        "688398.SH"
+      ],
+      "stock": [
+        "赛特新材"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "晶科能源1月26日现1笔大宗交易 总成交金额713.9万元 溢价率为-9.57%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0561844.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "电气设备"
+      ],
+      "stock_code": [
+        "688223.SH"
+      ],
+      "stock": [
+        "晶科能源"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "易德龙1月26日现2笔大宗交易 总成交金额1554.4万元 溢价率为-8.93%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9050631.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "电子"
+      ],
+      "stock_code": [
+        "603380.SH"
+      ],
+      "stock": [
+        "易德龙"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "恒瑞医药1月26日现1笔大宗交易 总成交金额5816万元 溢价率为0.00%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0561826.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "医药生物"
+      ],
+      "stock_code": [
+        "600276.SH"
+      ],
+      "stock": [
+        "恒瑞医药"
+      ]
+    },
+    {
+      "id": 46,
+      "title": "天和磁材1月26日现1笔大宗交易 总成交金额1636.51万元 其中机构买入1636.51万元 溢价率为-0.52%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9050613.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 47,
+      "title": "拉普拉斯1月26日现11笔大宗交易 总成交金额4591.21万元 其中机构买入1401.75万元 溢价率为-1.51%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0561806.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "电气设备"
+      ],
+      "stock_code": [
+        "688726.SH"
+      ],
+      "stock": [
+        "拉普拉斯"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "联芸科技1月26日现6笔大宗交易 总成交金额1606.85万元 溢价率为-11.99%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0561793.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "电子"
+      ],
+      "stock_code": [
+        "688449.SH"
+      ],
+      "stock": [
+        "联芸科技"
+      ]
+    },
+    {
+      "id": 49,
+      "title": "伊利股份1月26日现1笔大宗交易 总成交金额3582.1万元 溢价率为-2.51%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9050580.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "食品饮料"
+      ],
+      "stock_code": [
+        "600887.SH"
+      ],
+      "stock": [
+        "伊利股份"
+      ]
+    },
+    {
+      "id": 50,
+      "title": "贵州茅台1月26日现2笔大宗交易 总成交金额8648.86万元 溢价率为-2.50%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9050574.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "食品饮料"
+      ],
+      "stock_code": [
+        "600519.SH"
+      ],
+      "stock": [
+        "贵州茅台"
+      ]
+    },
+    {
+      "id": 51,
+      "title": "江航装备1月26日现1笔大宗交易 总成交金额9001.67万元 溢价率为-3.88%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9050561.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "国防军工"
+      ],
+      "stock_code": [
+        "688586.SH"
+      ],
+      "stock": [
+        "江航装备"
+      ]
+    },
+    {
+      "id": 52,
+      "title": "豪威集团1月26日现1笔大宗交易 总成交金额1285万元 溢价率为3.11%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9050553.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "电子"
+      ],
+      "stock_code": [
+        "603501.SH"
+      ],
+      "stock": [
+        "豪威集团"
+      ]
+    },
+    {
+      "id": 53,
+      "title": "数据港1月26日现19笔大宗交易 总成交金额5860.83万元 其中机构买入830.82万元 溢价率为-14.09%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0561744.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "通信"
+      ],
+      "stock_code": [
+        "603881.SH"
+      ],
+      "stock": [
+        "数据港"
+      ]
+    },
+    {
+      "id": 54,
+      "title": "中曼石油1月26日现17笔大宗交易 总成交金额5117.88万元 其中机构买入1076.65万元 溢价率为-16.36%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9050526.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "采掘"
+      ],
+      "stock_code": [
+        "603619.SH"
+      ],
+      "stock": [
+        "中曼石油"
+      ]
+    },
+    {
+      "id": 55,
+      "title": "云路股份1月26日现3笔大宗交易 总成交金额670.8万元 其中机构买入450.81万元 溢价率为-8.69%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0561713.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "有色金属"
+      ],
+      "stock_code": [
+        "688190.SH"
+      ],
+      "stock": [
+        "云路股份"
+      ]
+    },
+    {
+      "id": 56,
+      "title": "珍宝岛1月26日现4笔大宗交易 总成交金额2049.23万元 其中机构买入2049.23万元 溢价率为-9.06%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0561697.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "医药生物"
+      ],
+      "stock_code": [
+        "603567.SH"
+      ],
+      "stock": [
+        "珍宝岛"
+      ]
+    },
+    {
+      "id": 57,
+      "title": "盛和资源1月26日现1笔大宗交易 总成交金额999.31万元 溢价率为-12.68%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9050475.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "有色金属"
+      ],
+      "stock_code": [
+        "600392.SH"
+      ],
+      "stock": [
+        "盛和资源"
+      ]
+    },
+    {
+      "id": 58,
+      "title": "合合信息1月26日现1笔大宗交易 总成交金额2939.9万元 其中机构买入2939.9万元 溢价率为-0.70%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0561662.shtml",
+      "publish_time": "(01月26日 17:40)",
+      "source": "sina",
+      "industry": [
+        "计算机"
+      ],
+      "stock_code": [
+        "688615.SH"
+      ],
+      "stock": [
+        "合合信息"
+      ]
+    },
+    {
+      "id": 59,
+      "title": "奕帆传动收购人形机器人资产背后，和利时在下一盘怎样的棋？",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-26/doc-inhirqaw0561558.shtml",
+      "publish_time": "(01月26日 17:36)",
+      "source": "sina",
+      "industry": [
+        "电气设备",
+        "机械设备"
+      ],
+      "stock_code": [
+        "301023.SZ",
+        "300024.SZ"
+      ],
+      "stock": [
+        "奕帆传动",
+        "机器人"
+      ]
+    },
+    {
+      "id": 60,
+      "title": "*ST立方面临退市风险 受损股民可索赔",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhirqat8213198.shtml",
+      "publish_time": "(01月26日 17:26)",
+      "source": "sina",
+      "industry": [
+        "计算机"
+      ],
+      "stock_code": [
+        "300344.SZ"
+      ],
+      "stock": [
+        "*ST立方"
+      ]
+    },
+    {
+      "id": 61,
+      "title": "余某操纵博士眼镜被罚 受损投资者可索赔",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhirqaw0556511.shtml",
+      "publish_time": "(01月26日 17:26)",
+      "source": "sina",
+      "industry": [
+        "商业贸易"
+      ],
+      "stock_code": [
+        "300622.SZ"
+      ],
+      "stock": [
+        "博士眼镜"
+      ]
+    },
+    {
+      "id": 62,
+      "title": "000078，7分钟直线涨停！医药股，突然全线爆发！",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhirqat8208798.shtml",
+      "publish_time": "(01月26日 17:10)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 63,
+      "title": "卖家具抵工资？三年亏损超16亿的美克家居深陷欠薪风波",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhirqax9039001.shtml",
+      "publish_time": "(01月26日 17:08)",
+      "source": "sina",
+      "industry": [
+        "轻工制造"
+      ],
+      "stock_code": [
+        "600337.SH"
+      ],
+      "stock": [
+        "美克家居"
+      ]
+    },
+    {
+      "id": 64,
+      "title": "多只核心权重股同步出现巨额卖单压盘现象 发生了什么？",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhirqat8205495.shtml",
+      "publish_time": "(01月26日 17:07)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 65,
+      "title": "海天精工：关于公司总经理辞职暨聘任总经理的公告",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0544508.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "机械设备"
+      ],
+      "stock_code": [
+        "601882.SH"
+      ],
+      "stock": [
+        "海天精工"
+      ]
+    },
+    {
+      "id": 66,
+      "title": "兴森科技1月26日现1笔大宗交易 总成交金额330.46万元 溢价率为-6.94%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9033295.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "电子"
+      ],
+      "stock_code": [
+        "002436.SZ"
+      ],
+      "stock": [
+        "兴森科技"
+      ]
+    },
+    {
+      "id": 67,
+      "title": "惠通科技1月26日现1笔大宗交易 总成交金额1959.76万元 溢价率为-2.01%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0544481.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 68,
+      "title": "福赛科技1月26日现1笔大宗交易 总成交金额755.2万元 溢价率为-1.20%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9033269.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "汽车"
+      ],
+      "stock_code": [
+        "301529.SZ"
+      ],
+      "stock": [
+        "福赛科技"
+      ]
+    },
+    {
+      "id": 69,
+      "title": "飞沃科技1月26日现1笔大宗交易 总成交金额890.44万元 溢价率为-1.50%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0544458.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "电气设备"
+      ],
+      "stock_code": [
+        "301232.SZ"
+      ],
+      "stock": [
+        "飞沃科技"
+      ]
+    },
+    {
+      "id": 70,
+      "title": "百诚医药1月26日现2笔大宗交易 总成交金额1320.48万元 溢价率为-0.05%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0544449.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "医药生物"
+      ],
+      "stock_code": [
+        "301096.SZ"
+      ],
+      "stock": [
+        "百诚医药"
+      ]
+    },
+    {
+      "id": 71,
+      "title": "怡合达1月26日现4笔大宗交易 总成交金额1402.39万元 其中机构买入1402.39万元 溢价率为-8.00%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9033235.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "机械设备"
+      ],
+      "stock_code": [
+        "301029.SZ"
+      ],
+      "stock": [
+        "怡合达"
+      ]
+    },
+    {
+      "id": 72,
+      "title": "英诺激光1月26日现2笔大宗交易 总成交金额2450万元 溢价率为-17.33%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9033223.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "机械设备"
+      ],
+      "stock_code": [
+        "301021.SZ"
+      ],
+      "stock": [
+        "英诺激光"
+      ]
+    },
+    {
+      "id": 73,
+      "title": "易瑞生物1月26日现1笔大宗交易 总成交金额219.42万元 其中机构买入219.42万元 溢价率为-12.15%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9033203.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "医药生物"
+      ],
+      "stock_code": [
+        "300942.SZ"
+      ],
+      "stock": [
+        "易瑞生物"
+      ]
+    },
+    {
+      "id": 74,
+      "title": "欧陆通1月26日现18笔大宗交易 总成交金额4411.42万元 其中机构买入3656.09万元 溢价率为-14.50%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0544390.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "电气设备"
+      ],
+      "stock_code": [
+        "300870.SZ"
+      ],
+      "stock": [
+        "欧陆通"
+      ]
+    },
+    {
+      "id": 75,
+      "title": "新城市1月26日现1笔大宗交易 总成交金额496万元 溢价率为-11.11%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9033174.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "建筑装饰"
+      ],
+      "stock_code": [
+        "300778.SZ"
+      ],
+      "stock": [
+        "新城市"
+      ]
+    },
+    {
+      "id": 76,
+      "title": "寒锐钴业1月26日现1笔大宗交易 总成交金额885.01万元 溢价率为-10.56%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9033162.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "有色金属"
+      ],
+      "stock_code": [
+        "300618.SZ"
+      ],
+      "stock": [
+        "寒锐钴业"
+      ]
+    },
+    {
+      "id": 77,
+      "title": "飞荣达1月26日现1笔大宗交易 总成交金额2146.98万元 其中机构买入2146.98万元 溢价率为-9.01%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0544353.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "电子"
+      ],
+      "stock_code": [
+        "300602.SZ"
+      ],
+      "stock": [
+        "飞荣达"
+      ]
+    },
+    {
+      "id": 78,
+      "title": "温氏股份1月26日现4笔大宗交易 总成交金额4198.57万元 溢价率为-20.51%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9033131.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "农林牧渔"
+      ],
+      "stock_code": [
+        "300498.SZ"
+      ],
+      "stock": [
+        "温氏股份"
+      ]
+    },
+    {
+      "id": 79,
+      "title": "香农芯创1月26日现1笔大宗交易 总成交金额478.71万元 溢价率为-2.00%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0544320.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "电子"
+      ],
+      "stock_code": [
+        "300475.SZ"
+      ],
+      "stock": [
+        "香农芯创"
+      ]
+    },
+    {
+      "id": 80,
+      "title": "润泽科技1月26日现15笔大宗交易 总成交金额2.21亿元 其中机构买入2.19亿元 溢价率为-12.00%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0544305.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "通信"
+      ],
+      "stock_code": [
+        "300442.SZ"
+      ],
+      "stock": [
+        "润泽科技"
+      ]
+    },
+    {
+      "id": 81,
+      "title": "科恒股份1月26日现1笔大宗交易 总成交金额271.44万元 其中机构买入271.44万元 溢价率为-16.04%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0544294.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "电气设备"
+      ],
+      "stock_code": [
+        "300340.SZ"
+      ],
+      "stock": [
+        "科恒股份"
+      ]
+    },
+    {
+      "id": 82,
+      "title": "中际旭创1月26日现2笔大宗交易 总成交金额2224.92万元 其中机构买入235.92万元 溢价率为0.00%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9033080.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "通信"
+      ],
+      "stock_code": [
+        "300308.SZ"
+      ],
+      "stock": [
+        "中际旭创"
+      ]
+    },
+    {
+      "id": 83,
+      "title": "佐力药业1月26日现1笔大宗交易 总成交金额214.11万元 溢价率为-22.22%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0544273.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "医药生物"
+      ],
+      "stock_code": [
+        "300181.SZ"
+      ],
+      "stock": [
+        "佐力药业"
+      ]
+    },
+    {
+      "id": 84,
+      "title": "长信科技1月26日现4笔大宗交易 总成交金额962.61万元 其中机构买入962.61万元 溢价率为-9.63%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0544266.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "电子"
+      ],
+      "stock_code": [
+        "300088.SZ"
+      ],
+      "stock": [
+        "长信科技"
+      ]
+    },
+    {
+      "id": 85,
+      "title": "永兴材料1月26日现2笔大宗交易 总成交金额3805.2万元 溢价率为-2.49%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9033049.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "有色金属"
+      ],
+      "stock_code": [
+        "002756.SZ"
+      ],
+      "stock": [
+        "永兴材料"
+      ]
+    },
+    {
+      "id": 86,
+      "title": "世纪华通1月26日现1笔大宗交易 总成交金额203.94万元 溢价率为1.21%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9033046.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "传媒"
+      ],
+      "stock_code": [
+        "002602.SZ"
+      ],
+      "stock": [
+        "世纪华通"
+      ]
+    },
+    {
+      "id": 87,
+      "title": "天山铝业1月26日现2笔大宗交易 总成交金额9.01亿元 其中机构买入9.01亿元 溢价率为-0.05%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0544246.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "有色金属"
+      ],
+      "stock_code": [
+        "002532.SZ"
+      ],
+      "stock": [
+        "天山铝业"
+      ]
+    },
+    {
+      "id": 88,
+      "title": "宏创控股1月26日现1笔大宗交易 总成交金额1212.12万元 其中机构买入1212.12万元 溢价率为0.00%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0544234.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "有色金属"
+      ],
+      "stock_code": [
+        "002379.SZ"
+      ],
+      "stock": [
+        "宏创控股"
+      ]
+    },
+    {
+      "id": 89,
+      "title": "湖南黄金1月26日现1笔大宗交易 总成交金额505.4万元 溢价率为0.00%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9033020.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "有色金属"
+      ],
+      "stock_code": [
+        "002155.SZ"
+      ],
+      "stock": [
+        "湖南黄金"
+      ]
+    },
+    {
+      "id": 90,
+      "title": "三花智控1月26日现1笔大宗交易 总成交金额207.76万元 溢价率为0.00%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0544212.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "家用电器"
+      ],
+      "stock_code": [
+        "002050.SZ"
+      ],
+      "stock": [
+        "三花智控"
+      ]
+    },
+    {
+      "id": 91,
+      "title": "联合精密1月26日现1笔大宗交易 总成交金额2621.15万元 溢价率为-8.99%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0544204.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "家用电器"
+      ],
+      "stock_code": [
+        "001268.SZ"
+      ],
+      "stock": [
+        "联合精密"
+      ]
+    },
+    {
+      "id": 92,
+      "title": "贝瑞基因1月26日现1笔大宗交易 总成交金额3229.82万元 溢价率为-10.74%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9032996.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "医药生物"
+      ],
+      "stock_code": [
+        "000710.SZ"
+      ],
+      "stock": [
+        "贝瑞基因"
+      ]
+    },
+    {
+      "id": 93,
+      "title": "*ST亚太1月26日现1笔大宗交易 总成交金额444.5万元 溢价率为0.00%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9032985.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "化工"
+      ],
+      "stock_code": [
+        "000691.SZ"
+      ],
+      "stock": [
+        "*ST亚太"
+      ]
+    },
+    {
+      "id": 94,
+      "title": "中钨高新1月26日现2笔大宗交易 总成交金额2025万元 溢价率为-18.13%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0544173.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "有色金属"
+      ],
+      "stock_code": [
+        "000657.SZ"
+      ],
+      "stock": [
+        "中钨高新"
+      ]
+    },
+    {
+      "id": 95,
+      "title": "西安旅游1月26日现1笔大宗交易 总成交金额4623.07万元 溢价率为-2.98%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqax9032964.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "休闲服务"
+      ],
+      "stock_code": [
+        "000610.SZ"
+      ],
+      "stock": [
+        "西安旅游"
+      ]
+    },
+    {
+      "id": 96,
+      "title": "云南白药1月26日现1笔大宗交易 总成交金额3602.22万元 溢价率为-2.49%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqaw0544161.shtml",
+      "publish_time": "(01月26日 17:00)",
+      "source": "sina",
+      "industry": [
+        "医药生物"
+      ],
+      "stock_code": [
+        "000538.SZ"
+      ],
+      "stock": [
+        "云南白药"
+      ]
+    },
+    {
+      "id": 97,
+      "title": "龙宇股份（603003）再遭起诉！投资者证券维权持续进行中",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhirqax9027981.shtml",
+      "publish_time": "(01月26日 16:42)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 98,
+      "title": "八一钢铁未披露非经营性资金往来的关联交易被处罚",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhirqaw0539334.shtml",
+      "publish_time": "(01月26日 16:42)",
+      "source": "sina",
+      "industry": [
+        "钢铁"
+      ],
+      "stock_code": [
+        "600581.SH"
+      ],
+      "stock": [
+        "八一钢铁"
+      ]
+    },
+    {
+      "id": 99,
+      "title": "“博士眼镜”操纵案处罚落地，哪些投资者可以索赔？",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhirqaw0541102.shtml",
+      "publish_time": "(01月26日 16:42)",
+      "source": "sina",
+      "industry": [
+        "商业贸易"
+      ],
+      "stock_code": [
+        "300622.SZ"
+      ],
+      "stock": [
+        "博士眼镜"
+      ]
+    },
+    {
+      "id": 100,
+      "title": "连续五年扣非净亏损，惠发食品深陷“扩张困局”",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhirqaw0538479.shtml",
+      "publish_time": "(01月26日 16:41)",
+      "source": "sina",
+      "industry": [
+        "食品饮料"
+      ],
+      "stock_code": [
+        "603536.SH"
+      ],
+      "stock": [
+        "惠发食品"
+      ]
+    },
+    {
+      "id": 101,
+      "title": "主力渠道失速，海外业务难扛旗，志邦家居预计扣非净利润降超五成",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhirqay6341909.shtml",
+      "publish_time": "(01月26日 16:41)",
+      "source": "sina",
+      "industry": [
+        "轻工制造"
+      ],
+      "stock_code": [
+        "603801.SH"
+      ],
+      "stock": [
+        "志邦家居"
+      ]
+    },
+    {
+      "id": 102,
+      "title": "80后清华学霸董事长，接手大模型独角兽，公司刚获50亿融资，上海国资、腾讯押注",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhirqaw0538187.shtml",
+      "publish_time": "(01月26日 16:32)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 103,
+      "title": "妙可蓝多创始人柴琇遭免职，并被提起仲裁",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-26/doc-inhirqax9013015.shtml",
+      "publish_time": "(01月26日 16:20)",
+      "source": "sina",
+      "industry": [
+        "食品饮料"
+      ],
+      "stock_code": [
+        "600882.SH"
+      ],
+      "stock": [
+        "妙可蓝多"
+      ]
+    },
+    {
+      "id": 104,
+      "title": "恒天海龙：关于董事辞职的公告",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqay6323012.shtml",
+      "publish_time": "(01月26日 16:20)",
+      "source": "sina",
+      "industry": [
+        "化工"
+      ],
+      "stock_code": [
+        "000677.SZ"
+      ],
+      "stock": [
+        "恒天海龙"
+      ]
+    },
+    {
+      "id": 105,
+      "title": "陕西旅游：高级管理人员辞职公告",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqay6322989.shtml",
+      "publish_time": "(01月26日 16:20)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 106,
+      "title": "山西高速：关于董事会秘书辞职的公告",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqay6322973.shtml",
+      "publish_time": "(01月26日 16:20)",
+      "source": "sina",
+      "industry": [
+        "交通运输"
+      ],
+      "stock_code": [
+        "000755.SZ"
+      ],
+      "stock": [
+        "山西高速"
+      ]
+    },
+    {
+      "id": 107,
+      "title": "科力股份1月26日现1笔大宗交易 总成交金额100.02万元 溢价率为-2.00%",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhirqay6322944.shtml",
+      "publish_time": "(01月26日 16:20)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 108,
+      "title": "永辉学胖东来巨亏21亿：“形似神离”的转型困局",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhiseyq0280906.shtml",
+      "publish_time": "(01月26日 15:40)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 109,
+      "title": "“钢铁巨人”濒临退市？八一钢铁预计巨亏20亿，恐将“*ST”加身",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiriva6419876.shtml",
+      "publish_time": "(01月26日 15:30)",
+      "source": "sina",
+      "industry": [
+        "钢铁"
+      ],
+      "stock_code": [
+        "600581.SH"
+      ],
+      "stock": [
+        "八一钢铁"
+      ]
+    },
+    {
+      "id": 110,
+      "title": "*ST长药财务造假告别A股，律师提示两类投资者可索赔",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiriuv8271553.shtml",
+      "publish_time": "(01月26日 15:30)",
+      "source": "sina",
+      "industry": [
+        "医药生物"
+      ],
+      "stock_code": [
+        "300391.SZ"
+      ],
+      "stock": [
+        "*ST长药"
+      ]
+    },
+    {
+      "id": 111,
+      "title": "虚增数百亿，退市仍被罚！东旭光电索赔持续征集中",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiriuy0621879.shtml",
+      "publish_time": "(01月26日 15:30)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 112,
+      "title": "*ST沪科索赔持续征集中，仍处监管立案调查！",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiriuv8273377.shtml",
+      "publish_time": "(01月26日 15:30)",
+      "source": "sina",
+      "industry": [
+        "商业贸易"
+      ],
+      "stock_code": [
+        "600608.SH"
+      ],
+      "stock": [
+        "*ST沪科"
+      ]
+    },
+    {
+      "id": 113,
+      "title": "天沃科技索赔持续征集，已有投资者获赔",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiriuz9111203.shtml",
+      "publish_time": "(01月26日 15:30)",
+      "source": "sina",
+      "industry": [
+        "建筑装饰"
+      ],
+      "stock_code": [
+        "002564.SZ"
+      ],
+      "stock": [
+        "天沃科技"
+      ]
+    },
+    {
+      "id": 114,
+      "title": "预亏7000万，四年累亏逾3.5亿，惠发食品“输血式扩张”难解困局",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhirqay6367192.shtml",
+      "publish_time": "(01月26日 15:27)",
+      "source": "sina",
+      "industry": [
+        "食品饮料"
+      ],
+      "stock_code": [
+        "603536.SH"
+      ],
+      "stock": [
+        "惠发食品"
+      ]
+    },
+    {
+      "id": 115,
+      "title": "A股流感板块，大面积涨停！印度出现尼帕病毒疫情：已确诊5例，感染者死亡率40%以上！泰国宣布：全面筛查",
+      "url": "https://finance.sina.com.cn/roll/2026-01-26/doc-inhiriva6364796.shtml",
+      "publish_time": "(01月26日 14:00)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 116,
+      "title": "002155，一字涨停！",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhircnx8323350.shtml",
+      "publish_time": "(01月26日 13:10)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 117,
+      "title": "关于“未来三年百亿盈利”，688599提示风险",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhircnv9353465.shtml",
+      "publish_time": "(01月26日 12:31)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 118,
+      "title": "电科网安：关于高级管理人员辞职及聘任高级管理人员的公告",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-26/doc-inhircnv9340476.shtml",
+      "publish_time": "(01月26日 12:20)",
+      "source": "sina",
+      "industry": [
+        "计算机"
+      ],
+      "stock_code": [
+        "002268.SZ"
+      ],
+      "stock": [
+        "电科网安"
+      ]
+    },
+    {
+      "id": 119,
+      "title": "二审！股民索赔案件中青宝（300052）公司上诉，未起诉股民仍可参与证券维权",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhircnx8289410.shtml",
+      "publish_time": "(01月26日 11:56)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 120,
+      "title": "国晟科技（603778）股价波动，此前公司被监管或面临证券维权",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhircnx8289676.shtml",
+      "publish_time": "(01月26日 11:56)",
+      "source": "sina",
+      "industry": [
+        "建筑装饰"
+      ],
+      "stock_code": [
+        "603778.SH"
+      ],
+      "stock": [
+        "国晟科技"
+      ]
+    },
+    {
+      "id": 121,
+      "title": "卓朗科技（600225）投资者索赔案进入调解，前期已有胜诉获赔",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhircpc9145829.shtml",
+      "publish_time": "(01月26日 11:49)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 122,
+      "title": "鹏博士（600804）投资者索赔案再提交法院立案及收到调解书，前期已有投资者胜诉",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhircnv9324866.shtml",
+      "publish_time": "(01月26日 11:49)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 123,
+      "title": "红相股份（300427）投资者索赔倒计时三个月",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhircnx8284744.shtml",
+      "publish_time": "(01月26日 11:49)",
+      "source": "sina",
+      "industry": [
+        "电气设备"
+      ],
+      "stock_code": [
+        "300427.SZ"
+      ],
+      "stock": [
+        "红相股份"
+      ]
+    },
+    {
+      "id": 124,
+      "title": "向日葵（300111）投资者索赔已多次提交法院立案",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhircpc9146085.shtml",
+      "publish_time": "(01月26日 11:49)",
+      "source": "sina",
+      "industry": [
+        "医药生物"
+      ],
+      "stock_code": [
+        "300111.SZ"
+      ],
+      "stock": [
+        "向日葵"
+      ]
+    },
+    {
+      "id": 125,
+      "title": "长药控股（300391）被处罚，股民索赔可期",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxfe0770387.shtml",
+      "publish_time": "(01月26日 11:16)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 126,
+      "title": "高鸿股份（000851）被预处罚，股民索赔可期",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxez8392244.shtml",
+      "publish_time": "(01月26日 11:16)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 127,
+      "title": "哈工智能（000584）被预处罚，股民索赔可期",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxfe0770819.shtml",
+      "publish_time": "(01月26日 11:16)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 128,
+      "title": "立方数科股民索赔案诉讼程序已开启，适格股民可索赔损失！",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxfe0768656.shtml",
+      "publish_time": "(01月26日 11:16)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 129,
+      "title": "财说丨跨国并购折戟，德福科技存贷双高暗藏隐忧",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-26/doc-inhiqxez8305235.shtml",
+      "publish_time": "(01月26日 09:46)",
+      "source": "sina",
+      "industry": [
+        "电气设备"
+      ],
+      "stock_code": [
+        "301511.SZ"
+      ],
+      "stock": [
+        "德福科技"
+      ]
+    },
+    {
+      "id": 130,
+      "title": "利好！1月迎来摘星脱帽潮，A股五家公司成功“上岸”",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxfe0703964.shtml",
+      "publish_time": "(01月26日 09:45)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 131,
+      "title": "新亚制程成功摘帽，这些投资者可加入诉讼",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxff9191611.shtml",
+      "publish_time": "(01月26日 09:42)",
+      "source": "sina",
+      "industry": [
+        "电子"
+      ],
+      "stock_code": [
+        "002388.SZ"
+      ],
+      "stock": [
+        "新亚制程"
+      ]
+    },
+    {
+      "id": 132,
+      "title": "南方精工预计2025年净利暴涨，曾因误导性陈述引发索赔",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxfe0702536.shtml",
+      "publish_time": "(01月26日 09:42)",
+      "source": "sina",
+      "industry": [
+        "汽车"
+      ],
+      "stock_code": [
+        "002553.SZ"
+      ],
+      "stock": [
+        "南方精工"
+      ]
+    },
+    {
+      "id": 133,
+      "title": "向日葵终止重组半导体资产，已被监管立案索赔征集中",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxez8315370.shtml",
+      "publish_time": "(01月26日 09:42)",
+      "source": "sina",
+      "industry": [
+        "医药生物"
+      ],
+      "stock_code": [
+        "300111.SZ"
+      ],
+      "stock": [
+        "向日葵"
+      ]
+    },
+    {
+      "id": 134,
+      "title": "ST宁科成功撤销退市风险，索赔已有获赔案例",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxff9190783.shtml",
+      "publish_time": "(01月26日 09:41)",
+      "source": "sina",
+      "industry": [
+        "化工"
+      ],
+      "stock_code": [
+        "600165.SH"
+      ],
+      "stock": [
+        "ST宁科"
+      ]
+    },
+    {
+      "id": 135,
+      "title": "易联众（300096）投资者索赔案再提交一次法院立案",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxff9190530.shtml",
+      "publish_time": "(01月26日 09:41)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 136,
+      "title": "首批向日葵（300111）投资者索赔已向法院提交立案",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxff9190129.shtml",
+      "publish_time": "(01月26日 09:41)",
+      "source": "sina",
+      "industry": [
+        "医药生物"
+      ],
+      "stock_code": [
+        "300111.SZ"
+      ],
+      "stock": [
+        "向日葵"
+      ]
+    },
+    {
+      "id": 137,
+      "title": "超华科技（002288）投资者索赔案再提交法院立案",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxez8314131.shtml",
+      "publish_time": "(01月26日 09:41)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 138,
+      "title": "荣联科技（002642）投资者索赔倒计时一周，已有投资者获赔先例",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxez8313822.shtml",
+      "publish_time": "(01月26日 09:41)",
+      "source": "sina",
+      "industry": [
+        "计算机"
+      ],
+      "stock_code": [
+        "002642.SZ"
+      ],
+      "stock": [
+        "荣联科技"
+      ]
+    },
+    {
+      "id": 139,
+      "title": "奥联电子索赔倒计时 此前已有投资者获赔",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxex9353994.shtml",
+      "publish_time": "(01月26日 09:41)",
+      "source": "sina",
+      "industry": [
+        "汽车"
+      ],
+      "stock_code": [
+        "300585.SZ"
+      ],
+      "stock": [
+        "奥联电子"
+      ]
+    },
+    {
+      "id": 140,
+      "title": "红相股份股民一审胜诉 索赔时效只剩三个月",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxff9194576.shtml",
+      "publish_time": "(01月26日 09:41)",
+      "source": "sina",
+      "industry": [
+        "电气设备"
+      ],
+      "stock_code": [
+        "300427.SZ"
+      ],
+      "stock": [
+        "红相股份"
+      ]
+    },
+    {
+      "id": 141,
+      "title": "王某操纵电光科技被罚 受损投资者可索赔",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxff9188490.shtml",
+      "publish_time": "(01月26日 09:41)",
+      "source": "sina",
+      "industry": [
+        "机械设备"
+      ],
+      "stock_code": [
+        "002730.SZ"
+      ],
+      "stock": [
+        "电光科技"
+      ]
+    },
+    {
+      "id": 142,
+      "title": "许某操纵金陵体育被重罚 受损投资者可索赔",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxex9351454.shtml",
+      "publish_time": "(01月26日 09:41)",
+      "source": "sina",
+      "industry": [
+        "轻工制造"
+      ],
+      "stock_code": [
+        "300651.SZ"
+      ],
+      "stock": [
+        "金陵体育"
+      ]
+    },
+    {
+      "id": 143,
+      "title": "劲拓股份被操纵股价 受损股民可依法索赔",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxex9350974.shtml",
+      "publish_time": "(01月26日 09:41)",
+      "source": "sina",
+      "industry": [
+        "机械设备"
+      ],
+      "stock_code": [
+        "300400.SZ"
+      ],
+      "stock": [
+        "劲拓股份"
+      ]
+    },
+    {
+      "id": 144,
+      "title": "易某操纵金陵体育被罚 受损投资者可索赔",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxfe0697092.shtml",
+      "publish_time": "(01月26日 09:41)",
+      "source": "sina",
+      "industry": [
+        "轻工制造"
+      ],
+      "stock_code": [
+        "300651.SZ"
+      ],
+      "stock": [
+        "金陵体育"
+      ]
+    },
+    {
+      "id": 145,
+      "title": "承某等三人操纵恒润股份被罚 受损投资者可索赔",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxex9350178.shtml",
+      "publish_time": "(01月26日 09:41)",
+      "source": "sina",
+      "industry": [
+        "电气设备"
+      ],
+      "stock_code": [
+        "603985.SH"
+      ],
+      "stock": [
+        "恒润股份"
+      ]
+    },
+    {
+      "id": 146,
+      "title": "三夫户外投资者索赔胜诉 操纵股价案索赔倒计时",
+      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-01-26/doc-inhiqxfe0696373.shtml",
+      "publish_time": "(01月26日 09:41)",
+      "source": "sina",
+      "industry": [
+        "纺织服装"
+      ],
+      "stock_code": [
+        "002780.SZ"
+      ],
+      "stock": [
+        "三夫户外"
+      ]
+    },
+    {
+      "id": 147,
+      "title": "洛阳钼业40天拿下海外3个金矿",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhiqxez8297869.shtml",
+      "publish_time": "(01月26日 09:08)",
+      "source": "sina",
+      "industry": [
+        "有色金属"
+      ],
+      "stock_code": [
+        "603993.SH"
+      ],
+      "stock": [
+        "洛阳钼业"
+      ]
+    },
+    {
+      "id": 148,
+      "title": "节能环保业务发力 南网能源2025年净利预计扭亏为盈",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhiqxex9395151.shtml",
+      "publish_time": "(01月26日 08:39)",
+      "source": "sina",
+      "industry": [
+        "公用事业"
+      ],
+      "stock_code": [
+        "003035.SZ"
+      ],
+      "stock": [
+        "南网能源"
+      ]
+    },
+    {
+      "id": 149,
+      "title": "光明乳业2025年度归母净利润预亏超1.2亿元",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhiqxex9320741.shtml",
+      "publish_time": "(01月26日 08:39)",
+      "source": "sina",
+      "industry": [
+        "食品饮料"
+      ],
+      "stock_code": [
+        "600597.SH"
+      ],
+      "stock": [
+        "光明乳业"
+      ]
+    },
+    {
+      "id": 150,
+      "title": "股海导航_2026年1月26日_沪深股市公告与交易提示",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhiqsxi9232132.shtml",
+      "publish_time": "(01月26日 07:06)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 151,
+      "title": "洛阳钼业完成巴西金矿项目收购交割",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-26/doc-inhiqnrf8472697.shtml",
+      "publish_time": "(01月26日 06:51)",
+      "source": "sina",
+      "industry": [
+        "有色金属"
+      ],
+      "stock_code": [
+        "603993.SH"
+      ],
+      "stock": [
+        "洛阳钼业"
+      ]
+    },
+    {
+      "id": 152,
+      "title": "华神科技业绩预亏",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-26/doc-inhipzzi9714219.shtml",
+      "publish_time": "(01月26日 01:30)",
+      "source": "sina",
+      "industry": [
+        "医药生物"
+      ],
+      "stock_code": [
+        "000790.SZ"
+      ],
+      "stock": [
+        "华神科技"
+      ]
+    },
+    {
+      "id": 153,
+      "title": "ST智云拟与相关方就回购纠纷签署和解协议",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-26/doc-inhipzzq1081382.shtml",
+      "publish_time": "(01月26日 01:04)",
+      "source": "sina",
+      "industry": [
+        "机械设备"
+      ],
+      "stock_code": [
+        "300097.SZ"
+      ],
+      "stock": [
+        "ST智云"
+      ]
+    },
+    {
+      "id": 154,
+      "title": "中控技术股权激励设置工业AI收入目标 过去财报未对该收入单独分类",
+      "url": "https://finance.sina.com.cn/roll/2026-01-25/doc-inhipvtp8785183.shtml",
+      "publish_time": "(01月25日 23:38)",
+      "source": "sina",
+      "industry": [
+        "机械设备"
+      ],
+      "stock_code": [
+        "688777.SH"
+      ],
+      "stock": [
+        "中控技术"
+      ]
+    },
+    {
+      "id": 155,
+      "title": "603271：拟购买两家公司股权，预计构成重大资产重组！",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-25/doc-inhipvtp8772021.shtml",
+      "publish_time": "(01月25日 22:27)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 156,
+      "title": "利好来了！A股龙头，刚刚公告！",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-01-25/doc-inhipvts1182741.shtml",
+      "publish_time": "(01月25日 22:02)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 157,
+      "title": "嘉美包装明起再度停牌核查，股价连涨之下基本面恐难支撑：静态市盈率已超132倍",
+      "url": "https://finance.sina.com.cn/roll/2026-01-25/doc-inhiprmu1304724.shtml",
+      "publish_time": "(01月25日 21:25)",
+      "source": "sina",
+      "industry": [
+        "轻工制造"
+      ],
+      "stock_code": [
+        "002969.SZ"
+      ],
+      "stock": [
+        "嘉美包装"
+      ]
+    },
+    {
+      "id": 158,
+      "title": "年报预告“变脸”，欢乐家渠道转型承压",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-25/doc-inhiprmp9927089.shtml",
+      "publish_time": "(01月25日 21:21)",
+      "source": "sina",
+      "industry": [
+        "食品饮料"
+      ],
+      "stock_code": [
+        "300997.SZ"
+      ],
+      "stock": [
+        "欢乐家"
+      ]
+    },
+    {
+      "id": 159,
+      "title": "002155，披露重大资产重组预案：收购金矿资产！明天复牌",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-25/doc-inhiprmu1300479.shtml",
+      "publish_time": "(01月25日 21:00)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 160,
+      "title": "603271，重大资产重组！",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-25/doc-inhiprmp9921492.shtml",
+      "publish_time": "(01月25日 20:55)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 161,
+      "title": "利好！千亿龙头完成金矿收购！",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-25/doc-inhiprmr8877718.shtml",
+      "publish_time": "(01月25日 20:39)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 162,
+      "title": "八一钢铁2025年预亏超18亿元，4年累亏或超60亿元，退市风险逼近",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-25/doc-inhiprmr8870433.shtml",
+      "publish_time": "(01月25日 20:13)",
+      "source": "sina",
+      "industry": [
+        "钢铁"
+      ],
+      "stock_code": [
+        "600581.SH"
+      ],
+      "stock": [
+        "八一钢铁"
+      ]
+    },
+    {
+      "id": 163,
+      "title": "380亿川酒巨头，陷入水井坊绯闻",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-25/doc-inhiprmr8880890.shtml",
+      "publish_time": "(01月25日 19:59)",
+      "source": "sina",
+      "industry": [
+        "食品饮料"
+      ],
+      "stock_code": [
+        "600779.SH"
+      ],
+      "stock": [
+        "水井坊"
+      ]
+    },
+    {
+      "id": 164,
+      "title": "八一钢铁：可能被*ST",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-25/doc-inhiprmu1288133.shtml",
+      "publish_time": "(01月25日 19:38)",
+      "source": "sina",
+      "industry": [
+        "钢铁"
+      ],
+      "stock_code": [
+        "600581.SH"
+      ],
+      "stock": [
+        "八一钢铁"
+      ]
+    },
+    {
+      "id": 165,
+      "title": "2025年业绩预亏！华神科技推4.5亿元定增方案募资补流及偿债",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-25/doc-inhipmcs0029072.shtml",
+      "publish_time": "(01月25日 19:23)",
+      "source": "sina",
+      "industry": [
+        "医药生物"
+      ],
+      "stock_code": [
+        "000790.SZ"
+      ],
+      "stock": [
+        "华神科技"
+      ]
+    },
+    {
+      "id": 166,
+      "title": "中宠股份拟最高2亿元回购股份！当前股价距高点回撤逾三成，曾因转股信披违规被出具警示函",
+      "url": "https://finance.sina.com.cn/roll/2026-01-25/doc-inhipmcs0024388.shtml",
+      "publish_time": "(01月25日 19:00)",
+      "source": "sina",
+      "industry": [
+        "农林牧渔"
+      ],
+      "stock_code": [
+        "002891.SZ"
+      ],
+      "stock": [
+        "中宠股份"
+      ]
+    },
+    {
+      "id": 167,
+      "title": "600581，去年预亏超18亿元，股票可能被实施退市风险警示",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-25/doc-inhipmct8985351.shtml",
+      "publish_time": "(01月25日 18:59)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 168,
+      "title": "永杰新材拟购奥科宁克秦皇岛100%股权、奥科宁克昆山95%股权",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-25/doc-inhipmct8982612.shtml",
+      "publish_time": "(01月25日 18:54)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 169,
+      "title": "八一钢铁可能被实施退市风险警示",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-25/doc-inhipmct8982581.shtml",
+      "publish_time": "(01月25日 18:54)",
+      "source": "sina",
+      "industry": [
+        "钢铁"
+      ],
+      "stock_code": [
+        "600581.SH"
+      ],
+      "stock": [
+        "八一钢铁"
+      ]
+    },
+    {
+      "id": 170,
+      "title": "湖南黄金，复牌！披露重组预案！",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-25/doc-inhipmcs0013269.shtml",
+      "publish_time": "(01月25日 18:11)",
+      "source": "sina",
+      "industry": [
+        "有色金属"
+      ],
+      "stock_code": [
+        "002155.SZ"
+      ],
+      "stock": [
+        "湖南黄金"
+      ]
+    },
+    {
+      "id": 171,
+      "title": "美迪西股东林长青拟减持不超过0.6%公司股份",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-25/doc-inhipmct8968456.shtml",
+      "publish_time": "(01月25日 17:55)",
+      "source": "sina",
+      "industry": [
+        "医药生物"
+      ],
+      "stock_code": [
+        "688202.SH"
+      ],
+      "stock": [
+        "美迪西"
+      ]
+    },
+    {
+      "id": 172,
+      "title": "申通快递2.8亿股权纠纷：草莽创业史，该如何清算“婚姻股”？",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-25/doc-inhipmcs0004888.shtml",
+      "publish_time": "(01月25日 17:37)",
+      "source": "sina",
+      "industry": [
+        "交通运输"
+      ],
+      "stock_code": [
+        "002468.SZ"
+      ],
+      "stock": [
+        "申通快递"
+      ]
+    },
+    {
+      "id": 173,
+      "title": "融创中国归来，重启地产开发业务",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-25/doc-inhipmcw1392054.shtml",
+      "publish_time": "(01月25日 17:27)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 174,
+      "title": "斩获18连板！锋龙股份1月26日起停牌核查",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-25/doc-inhipmct8960777.shtml",
+      "publish_time": "(01月25日 17:27)",
+      "source": "sina",
+      "industry": [
+        "机械设备"
+      ],
+      "stock_code": [
+        "002931.SZ"
+      ],
+      "stock": [
+        "锋龙股份"
+      ]
+    },
+    {
+      "id": 175,
+      "title": "同星科技：关于董事会秘书辞职及聘任副总经理、董事会秘书的公告",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-25/doc-inhipmct8958978.shtml",
+      "publish_time": "(01月25日 17:20)",
+      "source": "sina",
+      "industry": [
+        "家用电器"
+      ],
+      "stock_code": [
+        "301252.SZ"
+      ],
+      "stock": [
+        "同星科技"
+      ]
+    },
+    {
+      "id": 176,
+      "title": "002155，披露重组预案！明日复牌！",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-25/doc-inhipewa0004351.shtml",
+      "publish_time": "(01月25日 16:48)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 177,
+      "title": "两大牛股，再度停牌核查",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-25/doc-inhipevy1515873.shtml",
+      "publish_time": "(01月25日 16:31)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 178,
+      "title": "披露重组预案，湖南黄金1月26日起复牌",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-25/doc-inhipevz9998211.shtml",
+      "publish_time": "(01月25日 16:23)",
+      "source": "sina",
+      "industry": [
+        "有色金属"
+      ],
+      "stock_code": [
+        "002155.SZ"
+      ],
+      "stock": [
+        "湖南黄金"
+      ]
+    },
+    {
+      "id": 179,
+      "title": "打破巨头垄断，同心医疗冲刺“国产人工心脏第一股”",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-25/doc-inhiseyq0283868.shtml",
+      "publish_time": "(01月25日 15:01)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 180,
+      "title": "连续两年旺季遇冷，元祖股份难解盈利下滑难题",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-25/doc-inhipevy1508674.shtml",
+      "publish_time": "(01月25日 14:59)",
+      "source": "sina",
+      "industry": [
+        "食品饮料"
+      ],
+      "stock_code": [
+        "603886.SH"
+      ],
+      "stock": [
+        "元祖股份"
+      ]
+    },
+    {
+      "id": 181,
+      "title": "麒盛科技：关联交易信披违规收监管警示，业绩承压下重要股东高位套现引争议",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-25/doc-inhipevu0113673.shtml",
+      "publish_time": "(01月25日 14:59)",
+      "source": "sina",
+      "industry": [
+        "轻工制造"
+      ],
+      "stock_code": [
+        "603610.SH"
+      ],
+      "stock": [
+        "麒盛科技"
+      ]
+    },
+    {
+      "id": 182,
+      "title": "登云股份实控人杨涛被捕，“益科系”旗下联储证券深陷亏损泥潭",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-25/doc-inhinyqa1611099.shtml",
+      "publish_time": "(01月25日 13:28)",
+      "source": "sina",
+      "industry": [
+        "汽车"
+      ],
+      "stock_code": [
+        "002715.SZ"
+      ],
+      "stock": [
+        "登云股份"
+      ]
+    },
+    {
+      "id": 183,
+      "title": "中际旭创实控人之子入股安徽这家上市公司！烟台首富家族再扩资本版图",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-24/doc-inhikete1431070.shtml",
+      "publish_time": "(01月24日 08:07)",
+      "source": "sina",
+      "industry": [
+        "通信"
+      ],
+      "stock_code": [
+        "300308.SZ"
+      ],
+      "stock": [
+        "中际旭创"
+      ]
+    },
+    {
+      "id": 184,
+      "title": "世纪华通业绩暴涨后：100亿买流下《无尽冬日》被指“暴力逼氪”",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-24/doc-inhikkza1328928.shtml",
+      "publish_time": "(01月24日 00:38)",
+      "source": "sina",
+      "industry": [
+        "传媒"
+      ],
+      "stock_code": [
+        "002602.SZ"
+      ],
+      "stock": [
+        "世纪华通"
+      ]
+    },
+    {
+      "id": 185,
+      "title": "整车销量同比增超84% 北汽蓝谷2025年预亏超43.5亿元，亏损额同比收窄",
+      "url": "https://finance.sina.com.cn/roll/2026-01-23/doc-inhiiips0811475.shtml",
+      "publish_time": "(01月23日 23:35)",
+      "source": "sina",
+      "industry": [
+        "汽车"
+      ],
+      "stock_code": [
+        "600733.SH"
+      ],
+      "stock": [
+        "北汽蓝谷"
+      ]
+    },
+    {
+      "id": 186,
+      "title": "参考8年前估值定价！云南城投拟超4倍溢价“清仓”七彩公司股权，后者去年前个7月亏逾4亿元",
+      "url": "https://finance.sina.com.cn/roll/2026-01-23/doc-inhiiips0802696.shtml",
+      "publish_time": "(01月23日 22:57)",
+      "source": "sina",
+      "industry": [
+        "房地产"
+      ],
+      "stock_code": [
+        "600239.SH"
+      ],
+      "stock": [
+        "云南城投"
+      ]
+    },
+    {
+      "id": 187,
+      "title": "603729、688478，重大资产重组！",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-23/doc-inhiiips0798571.shtml",
+      "publish_time": "(01月23日 22:37)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 188,
+      "title": "60亿“快递女王”离婚14年，遭前夫“算旧账”",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-23/doc-inhiicfp6348094.shtml",
+      "publish_time": "(01月23日 21:57)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 189,
+      "title": "严重财务造假！*ST长药，拟强制退市",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-23/doc-inhiicfr4834760.shtml",
+      "publish_time": "(01月23日 21:44)",
+      "source": "sina",
+      "industry": [
+        "医药生物"
+      ],
+      "stock_code": [
+        "300391.SZ"
+      ],
+      "stock": [
+        "*ST长药"
+      ]
+    },
+    {
+      "id": 190,
+      "title": "厨电龙头帅丰电器恐被实施*ST！",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-23/doc-inhiicfr4824972.shtml",
+      "publish_time": "(01月23日 21:22)",
+      "source": "sina",
+      "industry": [
+        "家用电器"
+      ],
+      "stock_code": [
+        "605336.SH"
+      ],
+      "stock": [
+        "帅丰电器"
+      ]
+    },
+    {
+      "id": 191,
+      "title": "605336，亏损！或披星戴帽！",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-23/doc-inhiicfp6333063.shtml",
+      "publish_time": "(01月23日 21:10)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 192,
+      "title": "2026年“1号”罚单来了！证监会：存在操纵主观意图！罚没超10亿元！",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-23/doc-inhiicfs1935405.shtml",
+      "publish_time": "(01月23日 21:00)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 193,
+      "title": "中国铀业：关于公司董事辞职及补选董事的公告",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-23/doc-inhiicfr4817161.shtml",
+      "publish_time": "(01月23日 21:00)",
+      "source": "sina",
+      "industry": null,
+      "stock_code": [],
+      "stock": []
+    },
+    {
+      "id": 194,
+      "title": "“4连板”白银有色2025年预亏超4.5亿元，都怪这场合同纠纷，可能面临上市以来首亏",
+      "url": "https://finance.sina.com.cn/roll/2026-01-23/doc-inhiicfp6326032.shtml",
+      "publish_time": "(01月23日 20:51)",
+      "source": "sina",
+      "industry": [
+        "有色金属"
+      ],
+      "stock_code": [
+        "601212.SH"
+      ],
+      "stock": [
+        "白银有色"
+      ]
+    },
+    {
+      "id": 195,
+      "title": "卖资产还债，东方雨虹自救",
+      "url": "https://finance.sina.com.cn/stock/s/2026-01-23/doc-inhiicfp6331167.shtml",
+      "publish_time": "(01月23日 20:49)",
+      "source": "sina",
+      "industry": [
+        "建筑材料"
+      ],
+      "stock_code": [
+        "002271.SZ"
+      ],
+      "stock": [
+        "东方雨虹"
+      ]
+    },
+    {
+      "id": 196,
+      "title": "公牛集团起诉家的电器有了“续集” ：后者提起反诉，高调攻入公牛“腹地”",
+      "url": "https://finance.sina.com.cn/jjxw/2026-01-23/doc-inhiicfr4809466.shtml",
+      "publish_time": "(01月23日 20:36)",
+      "source": "sina",
+      "industry": [
+        "轻工制造"
+      ],
+      "stock_code": [
+        "603195.SH"
+      ],
+      "stock": [
+        "公牛集团"
+      ]
+    },
+    {
+      "id": 197,
+      "title": "特锐德：关于独立董事辞职暨选举独立董事的公告",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-23/doc-inhiicfr4803575.shtml",
+      "publish_time": "(01月23日 20:20)",
+      "source": "sina",
+      "industry": [
+        "电气设备"
+      ],
+      "stock_code": [
+        "300001.SZ"
+      ],
+      "stock": [
+        "特锐德"
+      ]
+    },
+    {
+      "id": 198,
+      "title": "国海证券：关于董事辞职及补选董事的公告",
+      "url": "https://finance.sina.com.cn/stock/ggzz/2026-01-23/doc-inhiicfp6314763.shtml",
+      "publish_time": "(01月23日 20:20)",
+      "source": "sina",
+      "industry": [
+        "非银金融"
+      ],
+      "stock_code": [
+        "000750.SZ"
+      ],
+      "stock": [
+        "国海证券"
+      ]
+    }
+  ]
+}
